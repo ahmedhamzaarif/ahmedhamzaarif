@@ -3,15 +3,17 @@
 <h5 align="center">I also love to code using different languages and frameworks.</h5>
 <h6 align="center">Full Stack Engineer to be!</h6>
 
-<a href="https://www.linkedin.com/in/ahmedhamzaarif/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=blue&logoColor=white" />
-</a>
-<a href="http://ahmedhamzaarif.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=333333&logoColor=white" />
-</a>
-<a> 
-    <img src="https://komarev.com/ghpvc/?username=ahmedhamzaarif&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed Hamza" /> 
-</a>
+<p align="center">
+    <a href="https://www.linkedin.com/in/ahmedhamzaarif/" target="_blank">
+        <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=blue&logoColor=white" />
+    </a>
+    <a href="http://ahmedhamzaarif.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=dd910b&logoColor=white" />
+    </a>
+    <a>
+        <img src="https://komarev.com/ghpvc/?username=ahmedhamzaarif&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed Hamza" /> 
+    </a>
+</p>
 
 ### ⚡️ Github Stats
 <p>
