@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hamza</h1>
 <h3 align="center">Front-end developer 👨‍💻</h3>
-<h5 align="center">I also love to code using different languages and frameworks.</h5>
-<h6 align="center">Full Stack Engineer to be!</h6>
+<h5 align="center">I create beautiful websites with a focus on responsive design.</h5>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/ahmedhamzaarif/" target="_blank">
         <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=blue&logoColor=white" />
     </a>
-    <a href="http://ahmedhamzaarif.netlify.app/" target="_blank">
+    <a href="http://ahmedhamza.pk/" target="_blank">
         <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=dd910b&logoColor=white" />
     </a>
     <a>
