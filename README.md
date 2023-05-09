@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Hamza</h1>
+<h1 align="center">👋 Hi, I'm Ahmed Hamza</h1>
 <h3 align="center">Front-end developer 👨‍💻</h3>
 <h5 align="center">I create beautiful websites with a focus on responsive design.</h5>
 
