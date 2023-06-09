@@ -16,7 +16,7 @@
 
 <h3 align="center">Languages & Tools that I work with:</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,git">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,py,django,git">
 </p>
 
 
