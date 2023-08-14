@@ -24,7 +24,7 @@
 
 ## ⚡️ GitHub Stats
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhamzaarif&show_icons=true&locale=en&layout=compact&count_private=true&theme=outrun" alt="Top Languages" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhamzaarif&show_icons=true&locale=en&layout=compact&count_private=true&theme=nightowl&hide_border=true&bg_color=1F222E" alt="Top Languages" />
 </p>
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ahmedhamzaarif&show_icons=true&theme=nightowl&hide_border=true&bg_color=1F222E" alt="GitHub Stats" />
