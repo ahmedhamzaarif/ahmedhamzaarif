@@ -19,7 +19,7 @@
 
 ## ⚙️ Languages & Tools that I work with:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,express,nodejs,mongodb,git,vscode">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,next,express,nodejs,mongodb,git,vscode,postman">
 </p>
 
 ## ⚡️ GitHub Stats
