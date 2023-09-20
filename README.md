@@ -4,9 +4,6 @@
 <h3 align="center">I create beautiful websites with a focus on responsive design.</h3>
 
 ## 🔗 Connect with me on:
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
-[![Website](https://skillicons.dev/icons?i=html)](https://ahmedhamza.pk)
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmedhamzaarif/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
@@ -21,19 +18,18 @@
 </p>
 
 ## ⚙️ Languages & Tools that I work with:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,next,express,nodejs,mongodb,git,vscode,postman,vercel,netlify">
-</p>
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,next,express,nodejs,mongodb,git,vscode,postman)
+
 <details>
   <summary>
     <h2>⚡️ GitHub Stats</h2>
   </summary>
 <!-- <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhamzaarif&show_icons=true&locale=en&layout=compact&count_private=true&theme=nightowl&hide_border=true&bg_color=1F222E" alt="Top Languages" />
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ahmedhamzaarif&show_icons=true&theme=nightowl&hide_border=true&bg_color=1F222E" alt="GitHub Stats" />
 </p> -->
 <p align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ahmedhamzaarif&show_icons=true&theme=nightowl&hide_border=true&bg_color=1F222E" alt="GitHub Stats" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=ahmedhamzaarif&theme=nightowl&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" alt="GitHub Streak" />
 </p>
-
 </details>
+<p align='center'>From 🇵🇰 with ❤️</p>
