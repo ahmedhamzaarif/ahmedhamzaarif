@@ -18,7 +18,7 @@
 </p>
 
 ## ⚙️ Languages & Tools that I work with:
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,redux,next,express,nodejs,mongodb,git,vscode,postman)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,redux,next,express,nodejs,mongodb,git,vscode,postman,appwrite)
 
 <details>
   <summary>
