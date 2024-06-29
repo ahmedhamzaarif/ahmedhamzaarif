@@ -14,11 +14,10 @@
   <a href="https://ahmedhamza.pk/" target="_blank">
     <img src="https://skillicons.dev/icons?i=html" alt="Website" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ahmedhamzaarif&label=Profile%20views&color=0066FF&style=for-the-badge" alt="Profile views" align="right" /> 
 </p>
 
 ## ⚙️ Languages & Tools that I work with:
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,angular,react,redux,next,express,nodejs,mongodb,gcp,git,netlify,vercel,vscode,postman&perline=9)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,angular,react,redux,next,express,nodejs,mongodb,gcp,git,netlify,vercel,vscode,postman,appwrite,supabase,firebase,openai&perline=9)
 
 <details>
   <summary>
