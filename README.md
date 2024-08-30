@@ -17,7 +17,7 @@
 </p>
 
 ## ⚙️ Languages & Tools that I work with:
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,angular,react,redux,next,express,nodejs,mongodb,gcp,git,netlify,vercel,vscode,postman,appwrite,supabase,firebase,openai&perline=9)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,angular,react,redux,next,express,nodejs,mongodb,gcp,aws,git,netlify,vercel,vscode,postman,appwrite,supabase,firebase,openai&perline=9)
 
 <details>
   <summary>
