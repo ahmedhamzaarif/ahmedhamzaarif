@@ -11,7 +11,7 @@
   <a href="https://twitter.com/ahmedhamzaarif" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
-  <a href="https://ahmedhamza.pk/" target="_blank">
+  <a href="https://ahmedhamza.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=html" alt="Website" />
   </a>
 </p>
